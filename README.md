@@ -2,6 +2,8 @@
 
 ## ![preview](./assets/preview-gh.jpg)
 
+# 👉 [Portfolio (in progress)](https://yuriipohorilets.github.io/portfolio/)
+
 ---
 
 # Tech stack
