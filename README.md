@@ -2,7 +2,7 @@
 
 ## ![preview](./assets/preview-gh.jpg)
 
-# 👉 [My projects (in progress)](https://yuriipohorilets.github.io/portfolio-frontend/)
+# 👉 [My projects](https://yuriipohorilets.github.io/portfolio-frontend/)
 
 ---
 
