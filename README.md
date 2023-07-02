@@ -1,5 +1,3 @@
-# 👨‍💻 Open to work
-
 ## ![preview](./assets/preview-gh.jpg)
 
 # [Portfolio](https://yuriipohorilets.github.io/portfolio-frontend/)
