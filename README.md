@@ -9,7 +9,7 @@
 
 ---
 
-[![preview](./assets/github-cover.png)](#)
+[![preview](./assets/cover.png)](#)
 
 ---
 
