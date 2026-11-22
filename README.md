@@ -29,6 +29,5 @@ I build fast, modern, and user-friendly web applications. Passionate about **per
 [![Email](https://skillicons.dev/icons?i=gmail&perline=1&theme=dark)](mailto:pohorilets.y@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=1&theme=dark)](https://www.linkedin.com/in/yuriipohorilets/)
 [![GitHub](https://skillicons.dev/icons?i=github&perline=1&theme=dark)](https://github.com/YuriiPohorilets)
-[![LinkedIn](https://skillicons.dev/icons?i=discord&perline=1&theme=dark)](https://discord.com/users/1088382576512749618)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:424242,100:222222&height=150&section=footer)
